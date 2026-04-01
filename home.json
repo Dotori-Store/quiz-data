@@ -3,7 +3,7 @@
     "normal": "삐뽀삐뽀",
     "highlight": "안전상식"
   },
-  "description": "헷갈리는 교통상식, 퀴즈로 하나씩 풀다 보면\n안전 습관이 자연스럽게 완성돼요",
+  "description": "헷갈리는 교통상식, 퀴즈로 하나씩 풀다 보면\n안전 습관이 자연스럽게 완성돼요.",
   "quizList": [
     {
       "id": "traffic-signal",
