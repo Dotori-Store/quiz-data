@@ -1,0 +1,21 @@
+{
+  "title": {
+    "normal": "삐뽀삐뽀",
+    "highlight": "안전상식"
+  },
+  "description": "헷갈리는 교통상식, 퀴즈로 하나씩 풀다 보면\n안전 습관이 자연스럽게 완성돼요",
+  "quizList": [
+    {
+      "id": "traffic-signal",
+      "title": "갈까말까 교통신호",
+      "subtitle": "우회전? 주황색? 너무 헷갈려요.",
+      "image": "https://static.toss.im/icons/png/4x/icon-car-compare-man.png"
+    },
+    {
+      "id": "kickboard",
+      "title": "조심조심 킥보드",
+      "subtitle": "생각보다 까다로운 킥보드 안전",
+      "image": "https://static.toss.im/icons/png/4x/icon-kickboard.png"
+    }
+  ]
+}

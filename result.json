@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "minScore": 0,
+      "maxScore": 3,
+      "title": "안전상식 공부가 필요해요.",
+      "description": "하지만, 걱정 마세요! 해설을 확인하고\n안전 습관을 하나씩 만들어봐요."
+    },
+    {
+      "minScore": 4,
+      "maxScore": 6,
+      "title": "좀 더 보완하면 좋아요.",
+      "description": "정답과 해설을 꼼꼼히 읽어보고, 부족한 상식을 채워가세요."
+    },
+    {
+      "minScore": 7,
+      "maxScore": 7,
+      "title": "안전 상식이 뛰어나네요!",
+      "description": "하지만, 방심은 금물!\n해설을 확인하고, 다른 안전상식도 알아가요."
+    }
+  ]
+}
