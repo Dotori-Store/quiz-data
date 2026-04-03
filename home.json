@@ -9,13 +9,13 @@
       "id": "traffic-signal",
       "title": "갈까말까 교통신호",
       "subtitle": "우회전? 주황색? 너무 헷갈려요.",
-      "image": "https://static.toss.im/icons/png/4x/icon-car-compare-man.png"
+      "image": "https://static.toss.im/icons/svg/icon-car-compare-man.svg"
     },
     {
       "id": "kickboard",
       "title": "조심조심 킥보드",
       "subtitle": "생각보다 까다로운 킥보드 안전",
-      "image": "https://static.toss.im/icons/png/4x/icon-kickboard.png"
+      "image": "https://static.toss.im/icons/svg/icon-kickboard.svg"
     }
   ]
 }
