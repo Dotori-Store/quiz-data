@@ -18,10 +18,10 @@
       "image": "https://static.toss.im/icons/svg/icon-kickboard.svg"
     },
     {
-      "id": "kickboard",
-      "title": "조심조심 킥보드",
-      "subtitle": "생각보다 까다로운 킥보드 안전",
-      "image": "https://static.toss.im/icons/svg/icon-kickboard.svg"
+      "id": "bicycle",
+      "title": "조심조심 자전거",
+      "subtitle": "생각보다 까다로운 자전거 안전",
+      "image": "https://static.toss.im/icons/svg/icon-bicycle.svg"
     }
   ]
 }
