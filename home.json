@@ -16,6 +16,12 @@
       "title": "조심조심 킥보드",
       "subtitle": "생각보다 까다로운 킥보드 안전",
       "image": "https://static.toss.im/icons/svg/icon-kickboard.svg"
+    },
+    {
+      "id": "bicycle",
+      "title": "아슬아슬 자전거",
+      "subtitle": "꼭 지켜야 할 자전거 안전 수칙",
+      "image": "https://static.toss.im/icons/svg/icon-bike-green.svg"
     }
   ]
 }
