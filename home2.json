@@ -19,9 +19,9 @@
     },
     {
       "id": "bicycle",
-      "title": "조심조심 자전거",
-      "subtitle": "생각보다 까다로운 자전거 안전",
-      "image": "https://static.toss.im/icons/svg/icon-bicycle.svg"
+      "title": "아슬아슬 자전거",
+      "subtitle": "지켜야 할 자전거 안전 수칙",
+      "image": "https://static.toss.im/icons/svg/icon-bike-green.svg"
     }
   ]
 }
